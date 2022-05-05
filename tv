@@ -1,4 +1,4 @@
-﻿{
+{
     "sites": [
         {
             "key": "官采",
@@ -19,41 +19,22 @@
             "filterable": 1
         },
         {
-            "key": "csp_xpath_猫群自维护源21",
-            "name": "樱花",
-            "type": 3,
-            "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
+            "api": "http://zy.yilans.net:8090/api.php/provide/vod/",
             "filterable": 1,
-            "ext": "https://pglblb.coding.net/p/maotv/d/js/git/raw/master/21-%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.js?download=false"
-        },
-        {
-            "key": "江北采集",
-            "name": "江北",
-            "type": 0,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml/",
-            "playUrl": ""
-        },
-        {
-            "key": "淘片采集",
-            "name": "淘片",
-            "type": 0,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "https://taopianapi.com/home/cjapi/as/mc10/vod/xml",
-            "playUrl": ""
-        },
-        {
-            "key": "麒麟采集",
-            "name": "麒麟",
+            "key": "8090资源",
             "type": 1,
+            "name": "8090资源(官方)"
+        },
+        {
             "searchable": 1,
             "quickSearch": 1,
-            "api": "http://www.qilinzyz.com/api.php/provide/vod/?ac=list",
-            "playUrl": ""
+            "api": "http://vipmv.cc/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "天堂资源",
+            "type": 1,
+            "name": "天堂资源(官方)"
         },
         {
             "searchable": 1,
@@ -63,6 +44,213 @@
             "key": "M3U8.TV资源",
             "type": 1,
             "name": "M3U8.TV资源(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "http://www.qilinzyz.com/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "麒麟资源",
+            "type": 1,
+            "name": "麒麟资源(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "https://cj.banyung.xyz:7788",
+            "filterable": 1,
+            "key": "搬运工资源",
+            "type": 1,
+            "name": "搬运工资源(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "http://caiji.nxflv.com/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "诺讯资源",
+            "type": 1,
+            "name": "诺讯资源(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "https://apicdn.vipm3u8.com/xml",
+            "filterable": 1,
+            "key": "英皇官采",
+            "type": 0,
+            "name": "英皇官采(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "https://gfzycj.hnmj.vip/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "江北资源",
+            "type": 1,
+            "name": "江北资源(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "http://zy.sgyun.me/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "思古官采",
+            "type": 1,
+            "name": "思古官采(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "https://gcku.suboyun.vip/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "星一官采",
+            "type": 1,
+            "name": "星一官采(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "https://wabc.ml/mao/1.php/provide/vod/",
+            "filterable": 1,
+            "key": "wabc(腾讯直采)",
+            "type": 1,
+            "name": "wabc(腾讯直采)(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "https://pianku.wang/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "片库",
+            "type": 1,
+            "name": "片库(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "http://124.222.83.15:88/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "看猫",
+            "type": 1,
+            "name": "看猫(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "http://anltv.cn/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "忆梦",
+            "type": 1,
+            "name": "忆梦(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "http://vip-02.tgzy.cc/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "土狗官采",
+            "type": 1,
+            "name": "土狗官采(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "http://gc.zhuijuba.vip/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "极速官采",
+            "type": 1,
+            "name": "极速官采(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "http://cj.cygc.xyz/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "晓成云",
+            "type": 1,
+            "name": "晓成云(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "http://zy.ishoutu.com/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "首涂官采",
+            "type": 1,
+            "name": "首涂官采(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "https://aotemanzy.com/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "奥特曼资源",
+            "type": 1,
+            "name": "奥特曼资源(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "https://zl.chinafix.wang/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "雪人官采",
+            "type": 1,
+            "name": "雪人官采(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "https://mzkj.maccms.cf/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "木子看剧",
+            "type": 1,
+            "name": "木子看剧(官方)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "https://app.netflixmi.com/ruifenglb_api.php/provide/vod/",
+            "filterable": 1,
+            "key": "奈菲迷",
+            "type": 1,
+            "name": "奈菲迷(优质)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "http://zhuiju8.vip/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "追剧吧",
+            "type": 1,
+            "name": "追剧吧(优质)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "https://so2.cc/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "淘剧鸭",
+            "type": 1,
+            "name": "淘剧鸭(优质)"
+        },
+        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "http://judashen.com/api.php/provide/vod/",
+            "filterable": 1,
+            "key": "剧大神",
+            "type": 1,
+            "name": "剧大神(三方)"
+        },
+        {
+            "key": "淘片采集",
+            "name": "淘片",
+            "type": 0,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "https://taopianapi.com/home/cjapi/as/mc10/vod/xml",
+            "playUrl": ""
         },
         {
             "key": "无尽采集",
