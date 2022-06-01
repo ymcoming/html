@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.githubusercontent.com/ymcoming/html/main/biu.jar",
+    "spider": "https://818618.xyz/biu.jar",
     "lives": [
         {
             "group": "redirect",
@@ -7,7 +7,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3ltY29taW5nL2h0bWwvbWFpbi9ob21l"
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly84MTg2MTgueHl6L2hvbWU="
                     ]
                 }
             ]
