@@ -1,4 +1,4 @@
-﻿{
+{
     "spider": "https://seo3.818618.xyz/biu.jar",
     "lives": [
         {
@@ -15,6 +15,868 @@
     ],
     "sites": [
         {
+            "key": "LiteApple",
+            "name": "🍎小苹果(SP)",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "api": "csp_Kunyu77",
+            "key": "csp_Kunyu77",
+            "filterable": 1,
+            "name": "77",
+            "type": 3
+        },
+        {
+            "key": "csp_DiDuan",
+            "name": "低端",
+            "type": 3,
+            "api": "csp_DiDuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_DY1990",
+            "name": "990",
+            "type": 3,
+            "api": "csp_DY1990",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "csp_GitCafe",
+            "name": "纸条",
+            "type": 3,
+            "api": "csp_GitCafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "csp_AliPanSou",
+            "name": "猫搜",
+            "type": 3,
+            "api": "csp_AliPanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "csp_biubiu_厂长资源-蓝光",
+            "name": "🥒厂长资源-蓝光(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/厂长资源-蓝光.json"
+        },
+        {
+            "key": "csp_biubiu_风车动漫",
+            "name": "🥒风车动漫(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/风车动漫.json"
+        },
+        {
+            "key": "csp_biubiu_森屋新番",
+            "name": "🥒森屋新番(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/森屋新番.json"
+        },
+        {
+            "key": "csp_biubiu_漫岛动漫",
+            "name": "🥒漫岛动漫(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/漫岛动漫.json"
+        },
+        {
+            "key": "csp_biubiu_打驴动漫",
+            "name": "🥒打驴动漫(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/打驴动漫.json"
+        },
+        {
+            "key": "csp_biubiu_维奇动漫",
+            "name": "🥒维奇动漫(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/维奇动漫.json"
+        },
+        {
+            "key": "csp_biubiu_真不卡影院(不支持搜索)",
+            "name": "🥒真不卡影院(不支持搜索)(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/真不卡影院(不支持搜索).json"
+        },
+        {
+            "key": "csp_biubiu_蓝光影视",
+            "name": "🥒蓝光影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/蓝光影视.json"
+        },
+        {
+            "key": "csp_biubiu_在线之家",
+            "name": "🥒在线之家(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/在线之家.json"
+        },
+        {
+            "key": "csp_biubiu_COKEMV",
+            "name": "🥒COKEMV(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/COKEMV.json"
+        },
+        {
+            "key": "csp_biubiu_饭团影院",
+            "name": "🥒饭团影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/饭团影院.json"
+        },
+        {
+            "key": "csp_biubiu_影视工厂",
+            "name": "🥒影视工厂(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/影视工厂.json"
+        },
+        {
+            "key": "csp_biubiu_双十电影",
+            "name": "🥒双十电影(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/双十电影.json"
+        },
+        {
+            "key": "csp_biubiu_555资源",
+            "name": "🥒555资源(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/555资源.json"
+        },
+        {
+            "key": "csp_biubiu_骚火电影",
+            "name": "🥒骚火电影(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/骚火电影.json"
+        },
+        {
+            "key": "csp_biubiu_LIBVIO",
+            "name": "🥒LIBVIO(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/LIBVIO.json"
+        },
+        {
+            "key": "csp_biubiu_周末电影",
+            "name": "🥒周末电影(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/周末电影.json"
+        },
+        {
+            "key": "csp_biubiu_555电影",
+            "name": "🥒555电影(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/555电影.json"
+        },
+        {
+            "key": "csp_biubiu_剧白白-蓝光",
+            "name": "🥒剧白白-蓝光(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/剧白白-蓝光.json"
+        },
+        {
+            "key": "csp_biubiu_天空资源",
+            "name": "🥒天空资源(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/天空资源.json"
+        },
+        {
+            "key": "csp_biubiu_完美看看影视",
+            "name": "🥒完美看看影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/完美看看影视.json"
+        },
+        {
+            "key": "csp_biubiu_达达龟",
+            "name": "🥒达达龟(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/达达龟.json"
+        },
+        {
+            "key": "csp_biubiu_乐猪影视",
+            "name": "🥒乐猪影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/乐猪影视.json"
+        },
+        {
+            "key": "csp_biubiu_口袋影院",
+            "name": "🥒口袋影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/口袋影院.json"
+        },
+        {
+            "key": "csp_biubiu_黑洞影视",
+            "name": "🥒黑洞影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/黑洞影视.json"
+        },
+        {
+            "key": "csp_biubiu_神马影视",
+            "name": "🥒神马影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/神马影视.json"
+        },
+        {
+            "key": "csp_biubiu_六度TV",
+            "name": "🥒六度TV(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/六度TV.json"
+        },
+        {
+            "key": "csp_biubiu_花猫TV",
+            "name": "🥒花猫TV(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/花猫TV.json"
+        },
+        {
+            "key": "csp_biubiu_348电影网",
+            "name": "🥒348电影网(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/348电影网.json"
+        },
+        {
+            "key": "csp_biubiu_GIMY影视",
+            "name": "🥒GIMY影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/GIMY影视.json"
+        },
+        {
+            "key": "csp_biubiu_YYDS影院",
+            "name": "🥒YYDS影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/YYDS影院.json"
+        },
+        {
+            "key": "csp_biubiu_思乐影视",
+            "name": "🥒思乐影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/思乐影视.json"
+        },
+        {
+            "key": "csp_biubiu_开心果电影网",
+            "name": "🥒开心果电影网(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/开心果电影网.json"
+        },
+        {
+            "key": "csp_biubiu_如如影视",
+            "name": "🥒如如影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/如如影视.json"
+        },
+        {
+            "key": "csp_biubiu_VIP电影院",
+            "name": "🥒VIP电影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/VIP电影院.json"
+        },
+        {
+            "key": "csp_biubiu_看一看影视",
+            "name": "🥒看一看影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/看一看影视.json"
+        },
+        {
+            "key": "csp_biubiu_789影视",
+            "name": "🥒789影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/789影视.json"
+        },
+        {
+            "key": "csp_biubiu_人人影视",
+            "name": "🥒人人影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/人人影视.json"
+        },
+        {
+            "key": "csp_biubiu_31看影视",
+            "name": "🥒31看影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/31看影视.json"
+        },
+        {
+            "key": "csp_biubiu_小强迷",
+            "name": "🥒小强迷(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/小强迷.json"
+        },
+        {
+            "key": "csp_biubiu_chok8电影",
+            "name": "🥒chok8电影(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/chok8电影.json"
+        },
+        {
+            "key": "csp_biubiu_九州影视",
+            "name": "🥒九州影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/九州影视.json"
+        },
+        {
+            "key": "csp_biubiu_融兴影视",
+            "name": "🥒融兴影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/融兴影视.json"
+        },
+        {
+            "key": "csp_biubiu_鸭奈飞",
+            "name": "🥒鸭奈飞(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/鸭奈飞.json"
+        },
+        {
+            "key": "csp_biubiu_爱港剧",
+            "name": "🥒爱港剧(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/爱港剧.json"
+        },
+        {
+            "key": "csp_biubiu_23影院",
+            "name": "🥒23影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/23影院.json"
+        },
+        {
+            "key": "csp_biubiu_VIP1280",
+            "name": "🥒VIP1280(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/VIP1280.json"
+        },
+        {
+            "key": "csp_biubiu_小熊影视",
+            "name": "🥒小熊影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/小熊影视.json"
+        },
+        {
+            "key": "csp_biubiu_手机看剧",
+            "name": "🥒手机看剧(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/手机看剧.json"
+        },
+        {
+            "key": "csp_biubiu_创艺影视",
+            "name": "🥒创艺影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/创艺影视.json"
+        },
+        {
+            "key": "csp_biubiu_炫猫影视",
+            "name": "🥒炫猫影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/炫猫影视.json"
+        },
+        {
+            "key": "csp_biubiu_奈落影院",
+            "name": "🥒奈落影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/奈落影院.json"
+        },
+        {
+            "key": "csp_biubiu_神马影院",
+            "name": "🥒神马影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/神马影院.json"
+        },
+        {
+            "key": "csp_biubiu_哔嘀影视",
+            "name": "🥒哔嘀影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/哔嘀影视.json"
+        },
+        {
+            "key": "csp_biubiu_利丽娅电影",
+            "name": "🥒利丽娅电影(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/利丽娅电影.json"
+        },
+        {
+            "key": "csp_biubiu_奈菲影院",
+            "name": "🥒奈菲影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/奈菲影院.json"
+        },
+        {
+            "key": "csp_biubiu_七年影视",
+            "name": "🥒七年影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/七年影视.json"
+        },
+        {
+            "key": "csp_biubiu_大象TV",
+            "name": "🥒大象TV(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/大象TV.json"
+        },
+        {
+            "key": "csp_biubiu_4kan电影网",
+            "name": "🥒4kan电影网(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/4kan电影网.json"
+        },
+        {
+            "key": "csp_biubiu_蓝莓影视",
+            "name": "🥒蓝莓影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/蓝莓影视.json"
+        },
+        {
+            "key": "csp_biubiu_奇优影院（不支持搜）",
+            "name": "🥒奇优影院（不支持搜）(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/奇优影院（不支持搜）.json"
+        },
+        {
+            "key": "csp_biubiu_影渣渣",
+            "name": "🥒影渣渣(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/影渣渣.json"
+        },
+        {
+            "key": "csp_biubiu_牛马TV",
+            "name": "🥒牛马TV(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/牛马TV.json"
+        },
+        {
+            "key": "csp_biubiu_飘花播播",
+            "name": "🥒飘花播播(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/飘花播播.json"
+        },
+        {
+            "key": "csp_biubiu_星空影视",
+            "name": "🥒星空影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/星空影视.json"
+        },
+        {
+            "key": "csp_biubiu_豆角网",
+            "name": "🥒豆角网(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/豆角网.json"
+        },
+        {
+            "key": "csp_biubiu_尘落影院",
+            "name": "🥒尘落影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/尘落影院.json"
+        },
+        {
+            "key": "csp_biubiu_city电影",
+            "name": "🥒city电影(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/city电影.json"
+        },
+        {
+            "key": "csp_biubiu_小傻瓜",
+            "name": "🥒小傻瓜(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/小傻瓜.json"
+        },
+        {
+            "key": "csp_biubiu_电影馆",
+            "name": "🥒电影馆(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/电影馆.json"
+        },
+        {
+            "key": "csp_biubiu_爱看影视",
+            "name": "🥒爱看影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/爱看影视.json"
+        },
+        {
+            "key": "csp_biubiu_视中心影院",
+            "name": "🥒视中心影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/视中心影院.json"
+        },
+        {
+            "key": "csp_biubiu_干饭影视",
+            "name": "🥒干饭影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/干饭影视.json"
+        },
+        {
+            "key": "csp_biubiu_老茶馆",
+            "name": "🥒老茶馆(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/老茶馆.json"
+        },
+        {
+            "key": "csp_biubiu_凛冬又至",
+            "name": "🥒凛冬又至(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/凛冬又至.json"
+        },
+        {
+            "key": "csp_biubiu_红领巾",
+            "name": "🥒红领巾(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/红领巾.json"
+        },
+        {
+            "key": "csp_biubiu_老电影",
+            "name": "🥒老电影(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/老电影.json"
+        },
+        {
+            "key": "csp_biubiu_Nike影视网",
+            "name": "🥒Nike影视网(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/Nike影视网.json"
+        },
+        {
+            "key": "csp_biubiu_伊雪湾",
+            "name": "🥒伊雪湾(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/伊雪湾.json"
+        },
+        {
+            "key": "csp_biubiu_极品影视",
+            "name": "🥒极品影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/极品影视.json"
+        },
+        {
+            "key": "csp_biubiu_139影视",
+            "name": "🥒139影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xb/139影视.json"
+        },
+        {
             "key": "if101资源",
             "name": "if101(海外推荐)",
             "type": 0,
@@ -25,813 +887,53 @@
         },
         {
             "key": "csp_xpath_huya",
-            "name": "虎牙(XPF)",
+            "name": "🐯虎牙(XPF)",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xp/huya2.json"
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/huya2.json"
         },
         {
             "key": "csp_xpath_kuqimv",
-            "name": "酷奇MV(XP)",
+            "name": "🎤酷奇MV(XP)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xp/kuqimv.json"
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/kuqimv.json"
         },
         {
-            "key": "csp_biubiu_厂长资源-蓝光",
-            "name": "🥒厂长资源-蓝光(XB)",
+            "key": "csp_xpath_zxzj2",
+            "name": "在线之家(XPF)",
             "type": 3,
-            "api": "csp_XBiubiu",
+            "api": "csp_XPathFilter",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/厂长资源-蓝光.json"
+            "filterable": 1,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/zxzj2.json"
         },
         {
-            "key": "csp_biubiu_风车动漫",
-            "name": "🥒风车动漫(XB)",
+            "key": "csp_xpath_ctv",
+            "name": "冲TMTV(XPF)",
             "type": 3,
-            "api": "csp_XBiubiu",
+            "api": "csp_XPathMacFilter",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/风车动漫.json"
+            "filterable": 1,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/chongtmtv.json"
         },
         {
-            "key": "csp_biubiu_森屋新番",
-            "name": "🥒森屋新番(XB)",
+            "key": "csp_xpath_汉城影院",
+            "name": "汉城影院(XPF)",
             "type": 3,
-            "api": "csp_XBiubiu",
+            "api": "csp_XPathMacFilter",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/森屋新番.json"
-        },
-        {
-            "key": "csp_biubiu_漫岛动漫",
-            "name": "🥒漫岛动漫(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/漫岛动漫.json"
-        },
-        {
-            "key": "csp_biubiu_真不卡影院(不支持搜索)",
-            "name": "🥒真不卡影院(不支持搜索)(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/真不卡影院(不支持搜索).json"
-        },
-        {
-            "key": "csp_biubiu_蓝光影视",
-            "name": "🥒蓝光影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/蓝光影视.json"
-        },
-        {
-            "key": "csp_biubiu_在线之家",
-            "name": "🥒在线之家(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/在线之家.json"
-        },
-        {
-            "key": "csp_biubiu_COKEMV",
-            "name": "🥒COKEMV(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/COKEMV.json"
-        },
-        {
-            "key": "csp_biubiu_饭团影院",
-            "name": "🥒饭团影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/饭团影院.json"
-        },
-        {
-            "key": "csp_biubiu_影视工厂",
-            "name": "🥒影视工厂(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/影视工厂.json"
-        },
-        {
-            "key": "csp_biubiu_双十电影",
-            "name": "🥒双十电影(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/双十电影.json"
-        },
-        {
-            "key": "csp_biubiu_555资源",
-            "name": "🥒555资源(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/555资源.json"
-        },
-        {
-            "key": "csp_biubiu_骚火电影",
-            "name": "🥒骚火电影(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/骚火电影.json"
-        },
-        {
-            "key": "csp_biubiu_LIBVIO",
-            "name": "🥒LIBVIO(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/LIBVIO.json"
-        },
-        {
-            "key": "csp_biubiu_周末电影",
-            "name": "🥒周末电影(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/周末电影.json"
-        },
-        {
-            "key": "csp_biubiu_555电影",
-            "name": "🥒555电影(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/555电影.json"
-        },
-        {
-            "key": "csp_biubiu_剧白白-蓝光",
-            "name": "🥒剧白白-蓝光(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/剧白白-蓝光.json"
-        },
-        {
-            "key": "csp_biubiu_天空资源",
-            "name": "🥒天空资源(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/天空资源.json"
-        },
-        {
-            "key": "csp_biubiu_完美看看影视",
-            "name": "🥒完美看看影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/完美看看影视.json"
-        },
-        {
-            "key": "csp_biubiu_达达龟",
-            "name": "🥒达达龟(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/达达龟.json"
-        },
-        {
-            "key": "csp_biubiu_乐猪影视",
-            "name": "🥒乐猪影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/乐猪影视.json"
-        },
-        {
-            "key": "csp_biubiu_口袋影院",
-            "name": "🥒口袋影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/口袋影院.json"
-        },
-        {
-            "key": "csp_biubiu_黑洞影视",
-            "name": "🥒黑洞影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/黑洞影视.json"
-        },
-        {
-            "key": "csp_biubiu_神马影视",
-            "name": "🥒神马影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/神马影视.json"
-        },
-        {
-            "key": "csp_biubiu_六度TV",
-            "name": "🥒六度TV(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/六度TV.json"
-        },
-        {
-            "key": "csp_biubiu_花猫TV",
-            "name": "🥒花猫TV(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/花猫TV.json"
-        },
-        {
-            "key": "csp_biubiu_348电影网",
-            "name": "🥒348电影网(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/348电影网.json"
-        },
-        {
-            "key": "csp_biubiu_GIMY影视",
-            "name": "🥒GIMY影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/GIMY影视.json"
-        },
-        {
-            "key": "csp_biubiu_YYDS影院",
-            "name": "🥒YYDS影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/YYDS影院.json"
-        },
-        {
-            "key": "csp_biubiu_思乐影视",
-            "name": "🥒思乐影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/思乐影视.json"
-        },
-        {
-            "key": "csp_biubiu_开心果电影网",
-            "name": "🥒开心果电影网(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/开心果电影网.json"
-        },
-        {
-            "key": "csp_biubiu_如如影视",
-            "name": "🥒如如影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/如如影视.json"
-        },
-        {
-            "key": "csp_biubiu_VIP电影院",
-            "name": "🥒VIP电影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/VIP电影院.json"
-        },
-        {
-            "key": "csp_biubiu_看一看影视",
-            "name": "🥒看一看影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/看一看影视.json"
-        },
-        {
-            "key": "csp_biubiu_789影视",
-            "name": "🥒789影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/789影视.json"
-        },
-        {
-            "key": "csp_biubiu_人人影视",
-            "name": "🥒人人影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/人人影视.json"
-        },
-        {
-            "key": "csp_biubiu_31看影视",
-            "name": "🥒31看影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/31看影视.json"
-        },
-        {
-            "key": "csp_biubiu_小强迷",
-            "name": "🥒小强迷(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/小强迷.json"
-        },
-        {
-            "key": "csp_biubiu_chok8电影",
-            "name": "🥒chok8电影(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/chok8电影.json"
-        },
-        {
-            "key": "csp_biubiu_九州影视",
-            "name": "🥒九州影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/九州影视.json"
-        },
-        {
-            "key": "csp_biubiu_融兴影视",
-            "name": "🥒融兴影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/融兴影视.json"
-        },
-        {
-            "key": "csp_biubiu_鸭奈飞",
-            "name": "🥒鸭奈飞(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/鸭奈飞.json"
-        },
-        {
-            "key": "csp_biubiu_爱港剧",
-            "name": "🥒爱港剧(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/爱港剧.json"
-        },
-        {
-            "key": "csp_biubiu_23影院",
-            "name": "🥒23影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/23影院.json"
-        },
-        {
-            "key": "csp_biubiu_VIP1280",
-            "name": "🥒VIP1280(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/VIP1280.json"
-        },
-        {
-            "key": "csp_biubiu_小熊影视",
-            "name": "🥒小熊影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/小熊影视.json"
-        },
-        {
-            "key": "csp_biubiu_手机看剧",
-            "name": "🥒手机看剧(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/手机看剧.json"
-        },
-        {
-            "key": "csp_biubiu_创艺影视",
-            "name": "🥒创艺影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/创艺影视.json"
-        },
-        {
-            "key": "csp_biubiu_炫猫影视",
-            "name": "🥒炫猫影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/炫猫影视.json"
-        },
-        {
-            "key": "csp_biubiu_奈落影院",
-            "name": "🥒奈落影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/奈落影院.json"
-        },
-        {
-            "key": "csp_biubiu_神马影院",
-            "name": "🥒神马影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/神马影院.json"
-        },
-        {
-            "key": "csp_biubiu_哔嘀影视",
-            "name": "🥒哔嘀影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/哔嘀影视.json"
-        },
-        {
-            "key": "csp_biubiu_利丽娅电影",
-            "name": "🥒利丽娅电影(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/利丽娅电影.json"
-        },
-        {
-            "key": "csp_biubiu_奈菲影院",
-            "name": "🥒奈菲影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/奈菲影院.json"
-        },
-        {
-            "key": "csp_biubiu_七年影视",
-            "name": "🥒七年影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/七年影视.json"
-        },
-        {
-            "key": "csp_biubiu_大象TV",
-            "name": "🥒大象TV(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/大象TV.json"
-        },
-        {
-            "key": "csp_biubiu_4kan电影网",
-            "name": "🥒4kan电影网(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/4kan电影网.json"
-        },
-        {
-            "key": "csp_biubiu_蓝莓影视",
-            "name": "🥒蓝莓影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/蓝莓影视.json"
-        },
-        {
-            "key": "csp_biubiu_奇优影院（不支持搜）",
-            "name": "🥒奇优影院（不支持搜）(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/奇优影院（不支持搜）.json"
-        },
-        {
-            "key": "csp_biubiu_影渣渣",
-            "name": "🥒影渣渣(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/影渣渣.json"
-        },
-        {
-            "key": "csp_biubiu_牛马TV",
-            "name": "🥒牛马TV(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/牛马TV.json"
-        },
-        {
-            "key": "csp_biubiu_飘花播播",
-            "name": "🥒飘花播播(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/飘花播播.json"
-        },
-        {
-            "key": "csp_biubiu_星空影视",
-            "name": "🥒星空影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/星空影视.json"
-        },
-        {
-            "key": "csp_biubiu_豆角网",
-            "name": "🥒豆角网(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/豆角网.json"
-        },
-        {
-            "key": "csp_biubiu_尘落影院",
-            "name": "🥒尘落影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/尘落影院.json"
-        },
-        {
-            "key": "csp_biubiu_city电影",
-            "name": "🥒city电影(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/city电影.json"
-        },
-        {
-            "key": "csp_biubiu_小傻瓜",
-            "name": "🥒小傻瓜(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/小傻瓜.json"
-        },
-        {
-            "key": "csp_biubiu_电影馆",
-            "name": "🥒电影馆(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/电影馆.json"
-        },
-        {
-            "key": "csp_biubiu_爱看影视",
-            "name": "🥒爱看影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/爱看影视.json"
-        },
-        {
-            "key": "csp_biubiu_视中心影院",
-            "name": "🥒视中心影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/视中心影院.json"
-        },
-        {
-            "key": "csp_biubiu_干饭影视",
-            "name": "🥒干饭影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/干饭影视.json"
-        },
-        {
-            "key": "csp_biubiu_老茶馆",
-            "name": "🥒老茶馆(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/老茶馆.json"
-        },
-        {
-            "key": "csp_biubiu_凛冬又至",
-            "name": "🥒凛冬又至(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/凛冬又至.json"
-        },
-        {
-            "key": "csp_biubiu_红领巾",
-            "name": "🥒红领巾(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/红领巾.json"
-        },
-        {
-            "key": "csp_biubiu_老电影",
-            "name": "🥒老电影(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/老电影.json"
-        },
-        {
-            "key": "csp_biubiu_Nike影视网",
-            "name": "🥒Nike影视网(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/Nike影视网.json"
-        },
-        {
-            "key": "csp_biubiu_伊雪湾",
-            "name": "🥒伊雪湾(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/伊雪湾.json"
-        },
-        {
-            "key": "csp_biubiu_极品影视",
-            "name": "🥒极品影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/极品影视.json"
-        },
-        {
-            "key": "csp_biubiu_139影视",
-            "name": "🥒139影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xb/139影视.json"
+            "filterable": 1,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/hancheng.json"
         },
         {
             "key": "csp_xpath_libv",
@@ -841,7 +943,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xp/libv.json"
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/libv.json"
         },
         {
             "key": "csp_xpath_cokemv",
@@ -851,7 +953,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xp/cokemv.json"
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/cokemv.json"
         },
         {
             "key": "csp_xpath_ddg",
@@ -861,7 +963,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xp/dadagui.json"
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/dadagui.json"
         },
         {
             "key": "csp_xpath_jbb",
@@ -871,7 +973,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xp/jubaibai.json"
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/jubaibai.json"
         },
         {
             "key": "csp_xpath_Jumi",
@@ -881,7 +983,27 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xp/Jumi.json"
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/Jumi.json"
+        },
+        {
+            "key": "csp_xpath_唐人街",
+            "name": "唐人街(XPF)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/Renjie.json"
+        },
+        {
+            "key": "csp_xpath_lranc",
+            "name": "天天影视(XPF)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/lranc.json"
         },
         {
             "key": "csp_xpath_yanetflix",
@@ -891,7 +1013,27 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xp/yanet.json"
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/yanet.json"
+        },
+        {
+            "key": "csp_xpath_xxys520",
+            "name": "小熊影视(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/xxys520.json"
+        },
+        {
+            "key": "csp_xpath_348z",
+            "name": "348电影(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/348z.json"
         },
         {
             "key": "csp_xpath_Gimy",
@@ -901,7 +1043,67 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xp/Gimy2.json"
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/Gimy2.json"
+        },
+        {
+            "key": "csp_xpath_naifeiorg",
+            "name": "奈飞中文(XPF)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/naifeiorg.json"
+        },
+        {
+            "key": "csp_xpath_ttsp",
+            "name": "天天视频(XPF)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/ttsp.json"
+        },
+        {
+            "key": "csp_xpath_789kp",
+            "name": "789看片(XPF)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/789kp.json"
+        },
+        {
+            "key": "csp_xpath_jpys",
+            "name": "极品影视(XPF)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/jpys.json"
+        },
+        {
+            "key": "csp_xpath_dmw",
+            "name": "动漫岛(XPF)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/dmw.json"
+        },
+        {
+            "key": "csp_xpath_6d",
+            "name": "六度TV(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/6d.json"
         },
         {
             "key": "csp_xpath_czspp",
@@ -911,17 +1113,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xp/czspp.json"
-        },
-        {
-            "key": "csp_XPath_bidiys",
-            "name": "哔嘀影视(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xp/bidiys2.json"
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/czspp.json"
         },
         {
             "key": "csp_xpath_dm84",
@@ -931,7 +1123,37 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xp/dm84.json"
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/dm84.json"
+        },
+        {
+            "key": "csp_xpath_rttks",
+            "name": "人人影视(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/rttks.json"
+        },
+        {
+            "key": "csp_xpath_akmeiju",
+            "name": "爱看美剧(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/akmeiju.json"
+        },
+        {
+            "key": "csp_xpath_duboku",
+            "name": "独播库(XPMac)",
+            "type": 3,
+            "api": "csp_XPathMac",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/duboku2.json"
         },
         {
             "key": "csp_xpath_cerrd",
@@ -941,7 +1163,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xp/cerrd.json"
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/cerrd.json"
         },
         {
             "key": "csp_xpath_so2",
@@ -951,27 +1173,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/ymcoming/OneClickRun/master/xp/so2.json"
-        },
-        {
-            "key": "csp_appysv2_美剧迷",
-            "name": "美剧迷(萝卜)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://mj.zjtv.cc/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "key": "csp_appysv2_阿里影视",
-            "name": "阿里影视(萝卜)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://aliys.cn:90/api.php/v1.vod"
+            "ext": "https://github.com/ymcoming/OneClickRun/raw/master/xp/so2.json"
         },
         {
             "key": "6U资源",
@@ -1119,6 +1321,30 @@
             "api": "https://api.apibdzy.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
+        },
+        {
+            "key": "*麻豆视频",
+            "name": "*麻豆视频",
+            "type": 1,
+            "api": "https://madouse.la/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "*鲨鱼资源",
+            "name": "*鲨鱼资源",
+            "type": 1,
+            "api": "https://shayuapi.com/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "*KK资源",
+            "name": "*KK资源",
+            "type": 1,
+            "api": "https://kkzy.me/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
         }
     ],
     "parses": [
