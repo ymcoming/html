@@ -865,7 +865,32 @@
             }
         },
         {
+            "name": "5",
+            "type": 1,
+            "url": "https://vip.parwix.com:4433/player/?url="
+        },
+        {
+            "name": "6",
+            "type": 1,
+            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+        },
+        {
+            "name": "7",
+            "type": 1,
+            "url": "https://www.nxflv.com/?url="
+        },
+        {
             "name": "8",
+            "type": 1,
+            "url": "http://api.vip123kan.vip/?url="
+        },
+        {
+            "name": "9",
+            "type": 1,
+            "url": "https://json.hfyrw.com/mao.go?url="
+        },
+        {
+            "name": "10",
             "type": 1,
             "url": "https://app.iminna.com/jx/?url=",
             "ext": {
@@ -1380,46 +1405,172 @@
             }
         },
         {
-            "name": "OJBK",
-            "type": 0,
-            "url": "https://jmwl.qd234.cn/v/?v=",
+            "name": "线路77",
+            "url": "http://42.157.128.85:880/analysis/json/?uid=2100&my=gjkmqsuBLMNOWY0347&url=",
+            "type": 1,
+            "i": "77",
             "ext": {
                 "flag": [
-                    "ltnb",
-                    "renrenmi",
-                    "rx",
-                    "xfyun",
-                    "muxm3u8",
-                    "xigua",
-                    "xueren",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
                     "qq",
                     "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果"
+                ]
+            }
+        },
+        {
+            "name": "线路ff",
+            "type": 1,
+            "url": "https://vip.byteamone.cn/api/?key=0nca5Ltu48ziJtcFu1&url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果"
+                ]
+            }
+        },
+        {
+            "name": "线路ff2",
+            "type": 1,
+            "url": "https://json.csjcdn.cn/byte/?key=CAzffab5SGcymwxdfQ&url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果"
+                ]
+            }
+        },
+        {
+            "name": "线路m",
+            "url": "https://svip.iremind.me/api/?key=A5Db8HF8c8FSIOR6R1&url=",
+            "type": 1,
+            "i": "miao",
+            "ext": {
+                "flag": [
                     "qiyi",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
-                    "mgtv",
-                    "芒果",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
                     "bilibili",
                     "哔哩哔哩",
                     "哔哩",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "letv"
+                    "mgtv",
+                    "芒果"
                 ]
             }
         },
         {
-            "name": "M117",
-            "type": 0,
-            "url": "http://1.117.152.239:39000/?url="
+            "name": "线路DC",
+            "url": "https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=jlmsvxDFKMOQSTUY28&url=",
+            "type": 1,
+            "i": "DC",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果"
+                ]
+            }
         },
         {
-            "name": "zui",
-            "type": 0,
-            "url": "https://jx.zui.cm/?url=",
+            "name": "线路dy",
+            "url": "https://svip.lanyingtv.com:1011/home/api?type=ys&uid=2841604&key=clmpqrvwxHNORTVY57&url=",
+            "type": 1,
+            "i": "段友",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果"
+                ]
+            }
+        },
+        {
+            "name": "线路gj3",
+            "type": 1,
+            "url": "http://api.vip123kan.vip/?url=",
+            "i": "追剧",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果"
+                ]
+            }
+        },
+        {
+            "name": "线路300l",
+            "type": 1,
+            "url": "https://languangyingshiziyuan.1080zy.top/longteng.php/?url=",
             "ext": {
                 "flag": [
                     "ltnb"
@@ -1427,16 +1578,166 @@
             }
         },
         {
-            "name": "parwix1",
-            "type": 0,
-            "url": "https://jx.parwix.com:4433/player/?url=",
+            "name": "线路omofun",
+            "url": "https://m3u8.omofun.tv/api/parse?key=omofun2515850040&source_id=",
+            "type": 1,
             "ext": {
                 "flag": [
-                    "qq",
-                    "腾讯",
+                    "dmplay",
+                    "lsxl"
+                ]
+            }
+        },
+        {
+            "name": "线路4K",
+            "type": 1,
+            "url": "http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=",
+            "ext": {
+                "flag": [
                     "qiyi",
                     "爱奇艺",
                     "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果"
+                ]
+            }
+        },
+        {
+            "name": "线路ly",
+            "url": "http://jf.96ym.cn/api/?key=c9bUhQL7YsuL7y8oFz&url=",
+            "type": 1,
+            "i": "琅琊",
+            "ext": {
+                "flag": [
+                    "ltnb"
+                ]
+            }
+        },
+        {
+            "name": "线路lm",
+            "type": 1,
+            "url": "https://lanmeiguojiang.com/altjx/musen.php/?url=",
+            "i": "蓝莓",
+            "ext": {
+                "flag": [
+                    "ltnb"
+                ]
+            }
+        },
+        {
+            "name": "线路LT4",
+            "type": 1,
+            "url": "https://ltjx.jeeves.vip/home/api?type=ys&uid=711773&key=ekpsvwBCDFNOPRW056&url=",
+            "i": "4kLT",
+            "ext": {
+                "flag": [
+                    "ltnb"
+                ]
+            }
+        },
+        {
+            "name": "线路Ysgc",
+            "type": 1,
+            "url": "https://jiexi.ysgc.xyz/duoduo/?url=",
+            "ext": {
+                "flag": [
+                    "duoduozy"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0 (Linux; Android 7.1.1; ONEPLUS A5000 Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4240.185 Mobile Safari/537.36",
+                    "Origin": "https://jiexi.ysgc.xyz",
+                    "Sec-Fetch-Site": "same-origin",
+                    "Sec-Fetch-Mode": "cors",
+                    "Sec-Fetch-Dest": "empty",
+                    "Accept-Encoding": "gzip, deflate",
+                    "Accept-Language": "en-US,en;q=0.9",
+                    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+                    "Accept": "application/json, text/javascript, */*; q=0.01"
+                }
+            }
+        },
+        {
+            "name": "线路RR",
+            "url": "https://svip.rongxingvr.top/api/?key=AngnmipM4u7BECCcjq&url=",
+            "type": 1,
+            "ext": {
+                "flag": [
+                    "rx",
+                    "renrenmi"
+                ]
+            }
+        },
+        {
+            "name": "线路LT1",
+            "type": 1,
+            "url": "https://ltjx.jeeves.vip/home/api?type=ys&uid=1589472&key=aehjpzAHILOPQRU456&url=",
+            "i": "琅琊",
+            "ext": {
+                "flag": [
+                    "ltnb"
+                ]
+            }
+        },
+        {
+            "name": "线路LT2",
+            "type": 1,
+            "url": "https://ltjx.jeeves.vip/home/api?type=ys&uid=568259&key=bkmqvwxzJLNVXY0238&url=",
+            "ext": {
+                "flag": [
+                    "ltnb"
+                ]
+            }
+        },
+        {
+            "name": "龙腾4",
+            "type": 1,
+            "url": "https://ltjx.jeeves.vip/home/api?type=ys&uid=1161020&key=afklnotvwFMPSUX356&url=",
+            "ext": {
+                "flag": [
+                    "ltnb"
+                ]
+            }
+        },
+        {
+            "name": "龙腾5",
+            "type": 1,
+            "url": "https://ltjx.jeeves.vip/home/api?type=ys&uid=803828&key=cdefimpzDQTUW23679&url=",
+            "ext": {
+                "flag": [
+                    "ltnb"
+                ]
+            }
+        },
+        {
+            "name": "龙腾6",
+            "type": 1,
+            "url": "https://ltjx.jeeves.vip/home/api?type=ys&uid=1284948&key=gjpqrtwzCJLUV13679&url=",
+            "ext": {
+                "flag": [
+                    "ltnb"
+                ]
+            }
+        },
+        {
+            "name": "线路miaop1",
+            "type": 1,
+            "url": "http://175.178.109.153:615//api/?key=lqnCJ3OxBDcJu0Dyil&url=",
+            "ext": {
+                "flag": [
+                    "miaoparty",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
                     "youku",
                     "优酷",
                     "mgtv",
@@ -1445,97 +1746,284 @@
                     "乐视",
                     "pptv",
                     "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
+                    "miaoparty3"
                 ]
             }
         },
         {
-            "name": "parwix2",
-            "type": 0,
-            "url": "https://jx.parwix.com:4433/player/analysis.php?v=",
+            "name": "线路LTfx",
+            "type": 1,
+            "url": "http://121.62.60.222:1314/lt.php?url=",
+            "i": "粉象视界",
+            "ext": {
+                "flag": [
+                    "ltnb"
+                ]
+            }
+        },
+        {
+            "name": "多多①",
+            "type": 1,
+            "url": "https://a.dxzj88.com/ddzy/dd.php?url=",
+            "ext": {
+                "flag": [
+                    "duoduozy"
+                ]
+            }
+        },
+        {
+            "name": "线路CL4",
+            "type": 1,
+            "url": "http://jx.yjhan.com:8090/home/api?type=ys&uid=268886&key=afghilnyEGKPRTVY56&url=",
+            "ext": {
+                "flag": [
+                    "CL4K"
+                ]
+            }
+        },
+        {
+            "name": "线路Xfy",
+            "type": 1,
+            "url": "https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=aefiklotwzCEFHJO48&url=",
+            "ext": {
+                "flag": [
+                    "xfyun"
+                ]
+            }
+        },
+        {
+            "name": "线路Ayt",
+            "type": 1,
+            "url": "https://ysjx.jikezhuji.com/api/?key=mQ0OOQdZgaYq4qKv1S&url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "iqiyi",
+                    "qq",
+                    "爱奇艺",
+                    "奇艺",
+                    "腾讯"
+                ]
+            }
+        },
+        {
+            "name": "线路Gj4",
+            "type": 1,
+            "url": "https://cs.024zs.com:4433/api/?key=5JQOabvSfe3bRuRcg6&url=",
             "ext": {
                 "flag": [
                     "qq",
                     "腾讯",
+                    "youku",
+                    "优酷",
                     "qiyi",
                     "爱奇艺",
                     "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
                     "bilibili",
                     "哔哩哔哩",
-                    "哔哩"
+                    "哔哩",
+                    "mgtv",
+                    "芒果"
                 ]
             }
         },
         {
-            "name": "xuerenweb",
-            "type": 0,
-            "url": "https://s.2tu.uk/?url=",
+            "name": "线路Gj5",
+            "type": 1,
+            "url": "https://cs.024zs.com:4433/api/?key=ZGIAzc1y86fEENqYWb&url=",
             "ext": {
                 "flag": [
-                    "xueren"
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果"
                 ]
             }
         },
         {
-            "name": "xuerenweb2",
-            "type": 0,
-            "url": "https://xrm3u8.qd234.cn/?url=",
+            "name": "线路Gj6",
+            "type": 1,
+            "url": "https://cs.024zs.com:4433/api/?key=hKzvIMLB7jbWVeLXxw&url=",
             "ext": {
                 "flag": [
-                    "xueren"
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果"
                 ]
             }
         },
         {
-            "name": "美剧虫",
-            "type": 0,
-            "url": "https://jx.daiguaji.com/?url=",
+            "name": "线路wudu",
+            "type": 1,
+            "url": "https://jf.1080p.icu/home/api?type=dsp&uid=147565&key=adilmopuBEFJNUV067&url=",
+            "i": "手指",
             "ext": {
                 "flag": [
-                    "zijian"
+                    "wuduzy"
                 ]
             }
         },
         {
-            "name": "miao",
-            "type": 0,
-            "url": "https://jx.58g8.com/1/?url=",
+            "name": "线路CL1",
+            "type": 1,
+            "url": "http://ys.ling00.cn/json/?url=",
             "ext": {
                 "flag": [
-                    "miaoparty"
+                    "CL4K"
                 ]
             }
         },
         {
-            "name": "web1",
-            "type": 0,
-            "url": "https://www.nxflv.com/?url=",
+            "name": "线路CL2",
+            "type": 1,
+            "url": "https://tv.yjhan.com/cljson3394/?url=",
             "ext": {
                 "flag": [
+                    "CL4K"
+                ]
+            }
+        },
+        {
+            "name": "线路Cl3",
+            "type": 1,
+            "url": "http://ts.yjhan.com:8090/api/?key=43yVlZDaJg7dYH3DZi&url=",
+            "ext": {
+                "flag": [
+                    "CL4K"
+                ]
+            }
+        },
+        {
+            "name": "线路Cl4",
+            "type": 1,
+            "url": "http://ts.yjhan.com:8090/api/?key=DSQFgXdmj9xkDyiXdr&url=",
+            "ext": {
+                "flag": [
+                    "CL4K"
+                ]
+            }
+        },
+        {
+            "name": "线路Cl5",
+            "type": 1,
+            "url": "http://ts.yjhan.com:8090/api/?key=ZqS8HhnDRUmTBQQfnh&url=",
+            "ext": {
+                "flag": [
+                    "CL4K"
+                ]
+            }
+        },
+        {
+            "name": "线路Cl6",
+            "type": 1,
+            "url": "http://ts.yjhan.com:8090/api/?key=yNSLsBLOaUkKp2kZ6i&url=",
+            "ext": {
+                "flag": [
+                    "CL4K"
+                ]
+            }
+        },
+        {
+            "name": "线路Cl7",
+            "type": 1,
+            "url": "http://ts.yjhan.com:8090/api/?key=DSQFgXdmj9xkDyiXdr&url=",
+            "ext": {
+                "flag": [
+                    "CL4K"
+                ]
+            }
+        },
+        {
+            "name": "线路kp",
+            "type": 1,
+            "url": "https://vip.kpjx.cc/api/?key=VU93wdaptITbCRaVbG&url=",
+            "i": "酷扑"
+        },
+        {
+            "name": "线路LT4",
+            "type": 1,
+            "url": "https://ltnb.jeeves.vip/home/api?type=ys&uid=2492729&key=bkmopwEFMNQSUWXZ67&url=",
+            "ext": {
+                "flag": [
+                    "ltnb"
+                ]
+            }
+        },
+        {
+            "name": "线路Miao",
+            "url": "https://vip.aiaine.com/api/?key=pJiKdUKoatLiVha0el&url=",
+            "type": 1,
+            "ext": {
+                "flag": [
+                    "miaoparty",
+                    "miaoparty3"
+                ]
+            }
+        },
+        {
+            "name": "MUX1",
+            "type": 1,
+            "url": "https://vvip.muxvip.com:8866/api/?key=vGbxC8zUkJLbD0VdE0&url=",
+            "ext": {
+                "flag": [
+                    "muxm3u8"
+                ]
+            }
+        },
+        {
+            "name": "MUX2",
+            "type": 1,
+            "url": "https://vvip.muxvip.com:8866/api/?key=yL9NOOdevf0zn1S27X&url=",
+            "ext": {
+                "flag": [
+                    "muxm3u8"
+                ]
+            }
+        },
+        {
+            "name": "线路Ren",
+            "url": "https://kuba.renrenmi.cc:2266/api/?key=a2bSwx5iAGx1g2qn4h&url=",
+            "type": 1,
+            "i": "麻瓜人人迷",
+            "ext": {
+                "flag": [
+                    "renrenmi"
+                ]
+            }
+        },
+        {
+            "name": "线路Ayt",
+            "type": 1,
+            "url": "http://23.224.174.74:5577/home/api?type=ys&uid=19722&key=aghknrsvxCDEGNRSUZ&url=",
+            "i": "爱优腾",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
                     "youku",
                     "优酷",
                     "mgtv",
-                    "芒果",
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "qq",
-                    "奇艺",
-                    "sohu",
-                    "letv"
+                    "芒果"
                 ]
             }
         },
@@ -1559,52 +2047,6 @@
                     "bilibili",
                     "哔哩哔哩",
                     "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "ltnb04",
-            "type": 0,
-            "url": "https://vip.bljiex.com/?v=",
-            "ext": {
-                "flag": [
-                    "ltnb"
-                ]
-            }
-        },
-        {
-            "name": "ltnb02",
-            "type": 0,
-            "url": "https://jx.zui.cm/?url=",
-            "ext": {
-                "flag": [
-                    "ltnb"
-                ]
-            }
-        },
-        {
-            "name": "CL4K01",
-            "type": 0,
-            "url": "https://ys.ling00.cn/CL4K/?url=",
-            "ext": {
-                "flag": [
-                    "CL4K",
-                    "qq",
-                    "腾讯"
-                ]
-            }
-        },
-        {
-            "name": "CL4K02",
-            "type": 0,
-            "url": "https://app.okmedcos.com/4k/?url=",
-            "ext": {
-                "flag": [
-                    "CL4K",
-                    "qq",
-                    "腾讯",
-                    "pptv",
-                    "PPTV"
                 ]
             }
         }
