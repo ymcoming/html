@@ -125,8 +125,8 @@
             "name": "🥒厂长资源-蓝光(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 0,
             "ext": "https://catvod.818618.xyz/xb/厂长资源-蓝光.json"
         },
@@ -219,16 +219,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://catvod.818618.xyz/xb/LIBVIO.json"
-        },
-        {
-            "key": "csp_biubiu_周末电影",
-            "name": "🥒周末电影(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://catvod.818618.xyz/xb/周末电影.json"
         },
         {
             "key": "csp_biubiu_555电影",
@@ -501,16 +491,6 @@
             "ext": "https://catvod.818618.xyz/xp/hancheng.json"
         },
         {
-            "key": "csp_xpath_Jumi",
-            "name": "剧迷TV(XPF)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://catvod.818618.xyz/xp/Jumi.json"
-        },
-        {
             "key": "csp_xpath_唐人街",
             "name": "唐人街(XPF)",
             "type": 3,
@@ -541,16 +521,6 @@
             "ext": "https://catvod.818618.xyz/xp/naifeiorg.json"
         },
         {
-            "key": "csp_xpath_czspp",
-            "name": "厂长资源(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://catvod.818618.xyz/xp/czspp.json"
-        },
-        {
             "key": "csp_xpath_akmeiju",
             "name": "爱看美剧(XP)",
             "type": 3,
@@ -569,16 +539,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://catvod.818618.xyz/xp/duboku2.json"
-        },
-        {
-            "key": "csp_xpath_so2",
-            "name": "淘剧鸭(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://catvod.818618.xyz/xp/so2.json"
         },
         {
             "key": "天堂资源",
