@@ -135,18 +135,38 @@ TVB经典台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze53WLv53IMxpHZ
 NOW新闻,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze1P1tCEvxtJGORQfaAsIrPk
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTV6,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
-爆谷台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
-美亚电影,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze9i7xpFAGFBZLEOfFKUo_LE
-天映频道,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzex7VNAVZJZkMihzqdCAl9go
-华语电视,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
-华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-莲花卫视,http://nettvpro.live/hls/lotustv.php
-澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
-澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
-澳视澳门,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
-澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
-澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+凤凰资讯,http://iptv12k.com:35461/live/8032022060101/452381/998.m3u8
+凤凰中文,http://iptv12k.com:35461/live/8032022060101/452381/997.m3u8
+卫视电影台,http://iptv12k.com:35461/live/8032022060101/452381/1258.m3u8
+卫视中文台,http://iptv12k.com:35461/live/8032022060101/452381/1257.m3u8
+翡翠台,http://iptv12k.com:35461/live/8032022060101/452381/1021.m3u8
+J2,http://iptv12k.com:35461/live/8032022060101/452381/1006.m3u8
+無線新聞,http://iptv12k.com:35461/live/8032022060101/452381/1012.m3u8
+明珠台,http://iptv12k.com:35461/live/8032022060101/452381/1020.m3u8
+TVBS,http://iptv12k.com:35461/live/8032022060101/452381/1272.m3u8
+TVBS-G欢乐,http://iptv12k.com:35461/live/8032022060101/452381/1271.m3u8
+TVBS-精彩台,http://iptv12k.com:35461/live/8032022060101/452381/4842.m3u8
+TVB经典,http://iptv12k.com:35461/live/8032022060101/452381/1003.m3u8
+TVB星河,http://iptv12k.com:35461/live/8032022060101/452381/1000.m3u8
+TVB娱乐新闻,http://iptv12k.com:35461/live/8032022060101/452381/1001.m3u8
+有線18,http://iptv12k.com:35461/live/8032022060101/452381/1022.m3u8
+有線603,http://iptv12k.com:35461/live/8032022060101/452381/1023.m3u8
+有線體育,http://iptv12k.com:35461/live/8032022060101/452381/1017.m3u8
+有線新聞,http://iptv12k.com:35461/live/8032022060101/452381/1018.m3u8
+VIU SIX,http://iptv12k.com:35461/live/8032022060101/452381/1007.m3u8
+VIU TV,http://iptv12k.com:35461/live/8032022060101/452381/1008.m3u8
+NOW财经,http://iptv12k.com:35461/live/8032022060101/452381/1002.m3u8
+NOW体育,http://iptv12k.com:35461/live/8032022060101/452381/1014.m3u8
+NOW直播,http://iptv12k.com:35461/live/8032022060101/452381/1015.m3u8
+RHK 31,http://iptv12k.com:35461/live/8032022060101/452381/1004.m3u8
+RHK 32,http://iptv12k.com:35461/live/8032022060101/452381/1005.m3u8
+壹电视新闻台,http://iptv12k.com:35461/live/8032022060101/452381/1293.m3u8
+香港凤凰,http://iptv12k.com:35461/live/8032022060101/452381/999.m3u8
+香港开电视,http://iptv12k.com:35461/live/8032022060101/452381/1013.m3u8
+新唐人亚太台,http://iptv12k.com:35461/live/8032022060101/452381/1200.m3u8
+星卫HD电影,http://iptv12k.com:35461/live/8032022060101/452381/1261.m3u8
+星卫娱乐,http://iptv12k.com:35461/live/8032022060101/452381/1247.m3u8
+人间卫视,http://iptv12k.com:35461/live/8032022060101/452381/1202.m3u8
 
 台湾,#genre#
 三立新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
@@ -169,12 +189,43 @@ TVBS新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbs.m3u8
 民視影劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
 民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
 民視綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
-龙华戏剧,http://59.125.98.83:8534/playlist.m3u8
-龙华日韩,http://59.125.98.83:8535/playlist.m3u8
-龙华偶像,http://59.125.98.83:8536/playlist.m3u8
+八大第一,http://iptv12k.com:35461/live/8032022060101/452381/1282.m3u8
+八大戏剧,http://iptv12k.com:35461/live/8032022060101/452381/1284.m3u8
+八大娱乐,http://iptv12k.com:35461/live/8032022060101/452381/1281.m3u8
+八大综合,http://iptv12k.com:35461/live/8032022060101/452381/1283.m3u8
+东森财经,http://iptv12k.com:35461/live/8032022060101/452381/1275.m3u8
+东森电影,http://iptv12k.com:35461/live/8032022060101/452381/1254.m3u8
+东森戏剧,http://iptv12k.com:35461/live/8032022060101/452381/1255.m3u8
+东森新闻,http://iptv12k.com:35461/live/8032022060101/452381/1180.m3u8
+东森洋片,http://iptv12k.com:35461/live/8032022060101/452381/1256.m3u8
+东森综合,http://iptv12k.com:35461/live/8032022060101/452381/1280.m3u8
+公视,http://iptv12k.com:35461/live/8032022060101/452381/1289.m3u8
+民视HD,http://iptv12k.com:35461/live/8032022060101/452381/5204.m3u8
+三立inews,http://iptv12k.com:35461/live/8032022060101/452381/1288.m3u8
+三立都会,http://iptv12k.com:35461/live/8032022060101/452381/1287.m3u8
+三立台湾,http://iptv12k.com:35461/live/8032022060101/452381/1286.m3u8
+三立新闻,http://iptv12k.com:35461/live/8032022060101/452381/1285.m3u8
+台视,http://iptv12k.com:35461/live/8032022060101/452381/1290.m3u8
+中视,http://iptv12k.com:35461/live/8032022060101/452381/1291.m3u8
+中视菁采,http://iptv12k.com:35461/live/8032022060101/452381/1273.m3u8
+中天新闻,http://iptv12k.com:35461/live/8032022060101/452381/1276.m3u8
+中天亚洲CTI Asia,http://iptv12k.com:35461/live/8032022060101/452381/1278.m3u8
+中天娱乐,http://iptv12k.com:35461/live/8032022060101/452381/1277.m3u8
+年代新闻,http://iptv12k.com:35461/live/8032022060101/452381/1292.m3u8
+ELTA综合,http://iptv12k.com:35461/live/8032022060101/452381/679.m3u8
+纬来电影,http://iptv12k.com:35461/live/8032022060101/452381/1236.m3u8
+纬来精彩,http://iptv12k.com:35461/live/8032022060101/452381/1239.m3u8
+纬来日本,http://iptv12k.com:35461/live/8032022060101/452381/1238.m3u8
+纬来体育,http://iptv12k.com:35461/live/8032022060101/452381/1237.m3u8
+纬来戏剧,http://iptv12k.com:35461/live/8032022060101/452381/1241.m3u8
+纬来综合,http://iptv12k.com:35461/live/8032022060101/452381/1240.m3u8
+EYETV旅游,http://iptv12k.com:35461/live/8032022060101/452381/1223.m3u8
+亚洲美食频道,http://iptv12k.com:35461/live/8032022060101/452381/1229.m3u8
+JET TV,http://iptv12k.com:35461/live/8032022060101/452381/1262.m3u8
+momo亲子,http://iptv12k.com:35461/live/8032022060101/452381/1209.m3u8
+大爱电视,http://iptv12k.com:35461/live/8032022060101/452381/1204.m3u8
+大爱二台,http://iptv12k.com:35461/live/8032022060101/452381/1203.m3u8
 華語戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
-龙祥时代,http://120.84.96.32:808/hls/35/index.m3u8?zgangd
-天映经典,http://120.84.96.32:808/hls/85/index.m3u8?zgangd
 緯來育樂,rtmp://219.80.97.25/sat/tv701
 TVBS欢乐台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=97
 MOMO親子,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
@@ -188,6 +239,28 @@ MOMO親子,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107
 ELTV生活英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
 LiveABC互動英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
 
+电影,#genre#
+龙华戏剧,http://59.125.98.83:8534/playlist.m3u8
+龙华日韩,http://59.125.98.83:8535/playlist.m3u8
+龙华偶像,http://59.125.98.83:8536/playlist.m3u8
+HBO,http://iptv12k.com:35461/live/8032022060101/452381/1266.m3u8
+HBO家庭,http://iptv12k.com:35461/live/8032022060101/452381/1265.m3u8
+HBO强档,http://iptv12k.com:35461/live/8032022060101/452381/1264.m3u8
+HBO原创,http://iptv12k.com:35461/live/8032022060101/452381/1263.m3u8
+CatchPlay电影台,http://iptv12k.com:35461/live/8032022060101/452381/1252.m3u8
+CINEMAX HD,http://iptv12k.com:35461/live/8032022060101/452381/1214.m3u8
+Warner TV,http://iptv12k.com:35461/live/8032022060101/452381/1216.m3u8
+爱尔达影剧台,http://iptv12k.com:35461/live/8032022060101/452381/1248.m3u8
+电影1台,http://iptv12k.com:35461/live/8032022060101/452381/1010.m3u8
+电影1台,http://iptv12k.com:35461/live/8032022060101/452381/1010.m3u8
+美亚电影,http://iptv12k.com:35461/live/8032022060101/452381/1260.m3u8
+好莱坞电影台,http://iptv12k.com:35461/live/8032022060101/452381/1249.m3u8
+爆谷台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
+美亚电影,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze9i7xpFAGFBZLEOfFKUo_LE
+天映频道,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzex7VNAVZJZkMihzqdCAl9go天映经典,http://iptv12k.com:35461/live/8032022060101/452381/1253.m3u8
+龙祥时代,http://120.84.96.32:808/hls/35/index.m3u8?zgangd
+天映经典,http://120.84.96.32:808/hls/85/index.m3u8?zgangd
+
 體育,#genre#
 籃球,http://txtest-xp2p.p2p.huya.com/1099531627841-1099531627841-85899625092874240-2199063379138-10057-A-0-1.xs
 足球,http://txtest-xp2p.p2p.huya.com/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.xs
@@ -197,10 +270,25 @@ MOMO綜合,rtmp://219.80.97.25/sat/tv761
 ELTA體育1,rtmp://219.80.97.25/sat/md011
 ELTA體育2,rtmp://219.80.97.25/sat/md021
 ELTA體育3,rtmp://219.80.97.25/sat/md041
+ELTA體育1,http://iptv12k.com:35461/live/8032022060101/452381/1221.m3u8
+ELTA體育2,http://iptv12k.com:35461/live/8032022060101/452381/1220.m3u8
+ELTA體育3,http://iptv12k.com:35461/live/8032022060101/452381/1219.m3u8
 博斯網球,rtmp://219.80.97.25/sat/md031
 智林體育,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
+NBA,http://iptv12k.com:35461/live/8032022060101/452381/1227.m3u8
 
 World,#genre#
+罪案侦缉频道,http://iptv12k.com:35461/live/8032022060101/452381/1246.m3u8
+动物星球,http://iptv12k.com:35461/live/8032022060101/452381/1233.m3u8
+探索科学,http://iptv12k.com:35461/live/8032022060101/452381/1224.m3u8
+探索频道,http://iptv12k.com:35461/live/8032022060101/452381/1231.m3u8
+国家地理野生,http://iptv12k.com:35461/live/8032022060101/452381/1222.m3u8
+历史频道,http://iptv12k.com:35461/live/8032022060101/452381/1206.m3u8
+历史频道2,http://iptv12k.com:35461/live/8032022060101/452381/1201.m3u8
+美食星球,http://iptv12k.com:35461/live/8032022060101/452381/1259.m3u8
+BBC earth,http://iptv12k.com:35461/live/8032022060101/452381/1210.m3u8
+BBC lifestyle,http://iptv12k.com:35461/live/8032022060101/452381/1215.m3u8
+Travel Channel,http://iptv12k.com:35461/live/8032022060101/452381/1213.m3u8
 求索动物,http://111.11.123.49:6610/000000001000/6000000002000010046/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429143132239553&channel-id=wasusyt&Contentid=6000000002000010046
 求索记录,http://111.11.123.49:6610/000000001000/6000000002000032052/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429142822239451&channel-id=wasusyt&Contentid=6000000002000032052
 求索科学,http://111.11.123.49:6610/000000001000/6000000002000032344/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429143356239632&channel-id=wasusyt&Contentid=6000000002000032344
@@ -208,5 +296,6 @@ ABC,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcnewsus.m3u8
 NBC,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/nbc2.m3u8
 FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 7S Music,http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+MTV LIVE,http://iptv12k.com:35461/live/8032022060101/452381/1205.m3u8
 Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 Music Reload TV HD,http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
