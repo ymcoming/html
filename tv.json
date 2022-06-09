@@ -540,10 +540,20 @@
             "name": "🎤酷奇MV(XP)",
             "type": 3,
             "api": "csp_XPath",
-            "searchable": 0,
+            "searchable": 1,
             "quickSearch": 0,
-            "filterable": 0,
+            "filterable": 1,
             "ext": "https://catvod.818618.xyz/xp/kuqimv.json"
+        },
+        {
+            "key": "csp_xpath_qiumi",
+            "name": "球迷🏀",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://catvod.818618.xyz/xp/qiumi.json"
         },
         {
             "key": "csp_xpath_zxzj2",
@@ -727,14 +737,6 @@
             "api": "https://api.apibdzy.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
-        },
-        {
-            "key": "*麻豆视频",
-            "name": "*麻豆视频",
-            "type": 1,
-            "api": "https://madouse.la/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
         },
         {
             "key": "*鲨鱼资源",
