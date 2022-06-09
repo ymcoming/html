@@ -154,7 +154,7 @@
             "key": "优酷视频会员(官源)",
             "name": "优酷视频会员(官源)     ",
             "type": 0,
-            "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/",
+            "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/youku/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -163,7 +163,7 @@
             "key": "爱奇艺会员(官源)",
             "name": "爱奇艺会员(官源)     ",
             "type": 0,
-            "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml/",
+            "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -172,7 +172,7 @@
             "key": "腾讯视频(官源)",
             "name": "腾讯视频（官源)     ",
             "type": 0,
-            "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml/",
+            "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qq/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -181,7 +181,7 @@
             "key": "芒果TV会员(官源)",
             "name": "芒果TV会员(官源)     ",
             "type": 0,
-            "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml/",
+            "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -190,7 +190,16 @@
             "key": "搜狐视频会员(官源)",
             "name": "搜狐视频会员(官源)     ",
             "type": 0,
-            "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/sohu/at/xml/",
+            "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/sohu/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "8090全站资源",
+            "name": "8090全站资源(官源)     ",
+            "type": 0,
+            "api": "http://zy.yilans.net:8090/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
