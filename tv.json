@@ -154,7 +154,7 @@
             "key": "优酷视频会员(官源)",
             "name": "优酷视频会员(官源)     ",
             "type": 0,
-            "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/youku/?ac=list",
+            "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -199,7 +199,7 @@
             "key": "8090全站资源",
             "name": "8090全站资源(官源)     ",
             "type": 0,
-            "api": "http://zy.yilans.net:8090/api.php/provide/vod/?ac=list",
+            "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
