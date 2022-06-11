@@ -103,6 +103,7 @@ CCTV-3综艺,http://39.135.55.105:6610/PLTV/88888888/224/3221227055/index.m3u8?s
 湖南卫视,http://39.135.32.24:6610/000000001000/1000000001000009115/1.m3u8?xtkg?zweid
 四川卫视,http://39.135.6.51:6610/000000001001/5000000004000006119/1.m3u8?Contentid=5000000004000006119&livemode=1&stbId=2&channel-id=bestzb
 芒果4K,http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+清华大学,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 北京卫视,http://111.40.196.25/PLTV/88888888/224/3221225540/index.m3u8?zweimd
 北京卫视,http://111.40.196.32/PLTV/88888888/224/3221225527/index.m3u8?zweimd
 东方卫视,http://39.135.32.24:6610/000000001000/1000000001000030202/1.m3u8?xtkg?zweid
@@ -288,11 +289,13 @@ ELTA體育2,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/
 世界地理,http://117.148.179.157/PLTV/88888888/224/3221231537/index.m3u8?zyangd
 
 World,#genre#
+音乐榜,http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
+音乐小石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
+7S Music,http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 ABC,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcnewsus.m3u8
 BBC earth,http://iptv12k.com:35461/live/8032022060101/452381/1210.m3u8
 BBC lifestyle,http://iptv12k.com:35461/live/8032022060101/452381/1215.m3u8
 NBC,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/nbc2.m3u8
 FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-7S Music,http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-MTV LIVE,http://iptv12k.com:35461/live/8032022060101/452381/1205.m3u8
-Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
+
