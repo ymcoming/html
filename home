@@ -224,7 +224,6 @@ TVBS新聞,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/2
 凤凰资讯,http://117.169.120.138:8080/live/fhzixun/index.m3u8
 翡翠台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze19nX0CPUCMayWc4hh8Svqw
 民視新聞,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/17cd8809-c459-45c1-a1d0-c075645862d2.m3u8
-三立新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
 三立新聞,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=57
 TVBS新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbs.m3u8
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
@@ -263,7 +262,6 @@ CINEMAX,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b
 八大戲劇,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/1/b9681578-eb3b-45c4-b3e5-5f51c8daf2d4.m3u8
 八大娛樂,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ed74ad55-42d2-4613-b235-944683886177.m3u8
 八大綜合,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/0fdd4afc-c155-4164-8baa-b50c4488402d.m3u8
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 東森電影,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/55d60885-3825-4600-8a5c-1427ceae2aa6.m3u8
 東森戲劇,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/c9ad5922-8313-4c42-a327-174544661402.m3u8
 好萊塢電影,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6995f464-c034-4cf5-9b6a-e94ea4922ced.m3u8
@@ -281,15 +279,6 @@ CINEMAX,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b
 民視影劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 華語戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
-民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-民視,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/bba1cd9a-b72b-4d29-a545-384d7de01cf7.m3u8
-民視,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=84
-民視,http://seb.sason.top/ptv/ftv.php?id=ms
-民視影劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
-民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
-民視綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
-民視綜藝,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=101
-民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
 東森電影,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/55d60885-3825-4600-8a5c-1427ceae2aa6.m3u8
 東森戲劇,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/c9ad5922-8313-4c42-a327-174544661402.m3u8
 東森洋片,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/cfbd4405-3f72-4aaa-80c8-fdbba94b6d2d.m3u8
@@ -333,6 +322,10 @@ MOMO親子,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107
 MOMO綜合,rtmp://59.124.75.150/sat/tv761
 MOMO綜合,rtmp://219.80.97.25/sat/tv761
 TVBS歡樂,rtmp://59.124.75.150/sat/tv421
+民視,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=84
+民視影劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
+民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
+民視綜藝,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=101
 
 體育,#genre#
 足球,http://txtest-xp2p.p2p.huya.com/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.xs
