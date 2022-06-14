@@ -202,7 +202,7 @@ CCTV-15,http://39.135.6.51:6610/000000001001/1000000002000008163/1.m3u8?Contenti
 四川文旅,http://182.151.211.171:808/hls/51/index.m3u8
 四川乡村,http://182.151.211.171:808/hls/57/index.m3u8
 
-港台新闻,#genre#
+新闻,#genre#
 凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -241,7 +241,6 @@ CCTV-15,http://39.135.6.51:6610/000000001001/1000000002000008163/1.m3u8?Contenti
 三立新闻,http://59.125.101.187:10756/http/192.168.77.24:8081/hls/65/807/ch18.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 三立新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=57
 三立新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
-三立综合,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 中视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
 中视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
 中视新闻,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/2cfe8d82-fcaf-4931-95ed-655d60426101.m3u8
@@ -267,10 +266,20 @@ CCTV-15,http://39.135.6.51:6610/000000001001/1000000002000008163/1.m3u8?Contenti
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 
 音乐
-大立直播,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+大立音乐,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 音乐石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
 7S Music,http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
+
+新加坡,#genre#
+Astro AEC,http://50.7.220.74:8278/Aec/playlist.m3u8?tid=m02000000000015394736&ct=17957&tsum=1dcfc710d1e57d6048f64c2e0383ecd3
+Astro 华丽,http://50.7.220.74:8278/Wlt/playlist.m3u8?tid=m02000000000017284058&ct=17957&tsum=72aaa7dbf2a5d6166b065612f3e6c602
+Astro 欢喜,http://50.7.220.74:8278/Huahee/playlist.m3u8?tid=m02000000000018660079&ct=17957&tsum=5ce7429a79a9a892208c316c2a8133ee
+Astro 双星,http://50.7.220.74:8278/Shuangxing/playlist.m3u8?tid=m02000000000010638087&ct=17957&tsum=16035284df542c2d54efaee5e47bc535
+Astro 全佳,http://iptv12k.com:35461/8032022060101/452381/710
+新加坡 lU,http://50.7.220.74:8278/ChannelU/playlist.m3u8?tid=m014a6e987db6&ct=18336&tsum=fa5cb77a8be6edc061828d231e5769f9
+Astro Supersport 3,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
+Astro Supersport 4,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
 
 台湾,#genre#
 中视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=82
@@ -295,16 +304,6 @@ Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/in
 华视,http://59.125.101.187:10713/playlist.m3u8
 华视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
 
-新加坡,#genre#
-Astro AEC,http://50.7.220.74:8278/Aec/playlist.m3u8?tid=m02000000000015394736&ct=17957&tsum=1dcfc710d1e57d6048f64c2e0383ecd3
-Astro 华丽,http://50.7.220.74:8278/Wlt/playlist.m3u8?tid=m02000000000017284058&ct=17957&tsum=72aaa7dbf2a5d6166b065612f3e6c602
-Astro 欢喜,http://50.7.220.74:8278/Huahee/playlist.m3u8?tid=m02000000000018660079&ct=17957&tsum=5ce7429a79a9a892208c316c2a8133ee
-Astro 双星,http://50.7.220.74:8278/Shuangxing/playlist.m3u8?tid=m02000000000010638087&ct=17957&tsum=16035284df542c2d54efaee5e47bc535
-Astro 全佳,http://iptv12k.com:35461/8032022060101/452381/710
-新加坡lU,http://50.7.220.74:8278/ChannelU/playlist.m3u8?tid=m014a6e987db6&ct=18336&tsum=fa5cb77a8be6edc061828d231e5769f9
-Astro Supersport 3,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
-Astro Supersport 4,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
-
 电影,#genre#
 CINEMAX,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6cf1d6f9-8057-4a4e-8eba-cd950c24f19d.m3u8
 HBO,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
@@ -322,7 +321,7 @@ HBO强档,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/29
 卫视电影,http://59.125.101.187:10753/playlist.m3u8
 卫视电影,http://59.125.101.187:10745/http/192.168.77.24:8081/hls/62/804/ch08.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 
-剧集,#genre#
+电视剧,#genre#
 ELTA影剧,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/5bd937d8-a211-4be2-8c5c-a0fb8e62b23f.m3u8
 EYETV戏剧,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/35d20aac-a621-438e-8cf1-8433605954c3.m3u8
 八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
@@ -358,6 +357,7 @@ EYETV戏剧,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/
 综艺,#genre#
 八大娱乐,http://50.7.220.74:8278/badaentertain/playlist.m3u8?tid=m46003aa2ac2617525877&ct=17874&tsum=d31212ff6fbefd5bd856f80d16bb3f27
 八大娱乐,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ed74ad55-42d2-4613-b235-944683886177.m3u8
+三立综合,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 华语综艺,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
 民视综艺,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=101
 民视综艺,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
