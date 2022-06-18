@@ -160,6 +160,24 @@
             "filterable": 0,
             "ext": "https://catvod.818618.xyz/xb/斗鱼.json"
         },
+         {
+            "key": "斗鱼2",
+            "name": "🥒斗鱼2",
+            "type": 1,
+            "api": "https://catvod.818618.xyz/xp/douyu.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+         {
+            "key": "开麦K歌",
+            "name": "🥒开麦K歌",
+            "type": 1,
+            "api": "https://catvod.818618.xyz/xp/kmkg.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
         {
             "key": "优酷视频会员(官源)",
             "name": "优酷视频会员(官源)     ",
