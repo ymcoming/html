@@ -164,7 +164,7 @@
             "key": "斗鱼2",
             "name": "🥒斗鱼2",
             "type": 1,
-            "api": "https://catvod.818618.xyz/xp/douyu.php",
+            "api": "https://catvod.818618.xyz/xp/douyu.json",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -173,7 +173,7 @@
             "key": "开麦K歌",
             "name": "🥒开麦K歌",
             "type": 1,
-            "api": "https://catvod.818618.xyz/xp/kmkg.php",
+            "api": "https://catvod.818618.xyz/xp/kmkg.json",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
