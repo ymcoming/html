@@ -161,10 +161,19 @@
             "filterable": 0
         },
          {
-            "key": "开麦K歌",
-            "name": "🥒开麦K歌",
+            "key": "开麦K歌-歌手",
+            "name": "🥒开麦K歌-歌手",
             "type": 1,
             "api": "http://jb001.eu5.org/tmp/t/u/kmkg.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+         {
+            "key": "开麦K歌-歌曲",
+            "name": "🥒开麦K歌-歌曲",
+            "type": 1,
+            "api": "http://jb001.eu5.org/tmp/t/u/kmkgct.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
