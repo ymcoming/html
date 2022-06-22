@@ -110,6 +110,7 @@ CCTV-15,http://111.63.117.13:6060/030000001000/G_CCTV-15/G_CCTV-15.m3u8?zyangd
 CCTV-15,http://39.135.32.24:6610/000000001000/1000000002000008163/1.m3u8?i?zzhongd
 CCTV-15,http://39.135.32.7:6610/000000001000/HD-8000k-1080P-cctv15/1.m3u8?IASHttpSessionId=OTT?zzhongd
 CCTV-15,http://39.135.6.51:6610/000000001001/1000000002000008163/1.m3u8?Contentid=1000000002000008163&livemode=1&stbId=2&channel-id=ystenlive
+##
 
 ##🇨🇳｜卫视##
 北京卫视,http://39.135.32.24:6610/000000001000/1000000001000017156/1.m3u8?xtkg?zweid
@@ -153,7 +154,7 @@ CCTV-15,http://39.135.6.51:6610/000000001001/1000000002000008163/1.m3u8?Contenti
 湖南卫视,http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
 湖南卫视,http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8
 湖南卫视,http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8
-清华大学,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+##
 
 ##🇭🇰｜四川##
 四川新闻,http://182.151.211.171:808/hls/52/index.m3u8
@@ -163,12 +164,14 @@ CCTV-15,http://39.135.6.51:6610/000000001001/1000000002000008163/1.m3u8?Contenti
 四川科教,http://3017ugjo.live2.danghongyun.com:80/live/hls/4dc0e927160647a2bd585cb5495810be/3c2126c925204cddb74a3534b97e2765-1.m3u8?zsicd
 四川文旅,http://182.151.211.171:808/hls/51/index.m3u8
 四川乡村,http://182.151.211.171:808/hls/57/index.m3u8
+##
 
 ##🇭🇰｜音乐##
 大立音乐,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 音乐石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
 7S Music,http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
+##
 
 ##🇭🇰｜新闻##
 凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
@@ -209,6 +212,7 @@ Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/in
 东森新闻,http://61.222.202.191/gt/gttv.php?id=13635&cid=13787
 翡翠台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 新加坡lU,http://50.7.220.74:8278/ChannelU/playlist.m3u8?tid=m014a6e987db6&ct=18336&tsum=fa5cb77a8be6edc061828d231e5769f9
+##
 
 ##🇭🇰｜台湾##
 中视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
@@ -219,6 +223,7 @@ Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/in
 民视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 民视,http://seb.sason.top/ptv/ftv.php?id=ms
 民视,https://wabc.ml/hlk.php?id=96
+##
 
 ##🇭🇰｜电影##
 HBO,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
@@ -227,6 +232,7 @@ HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&
 東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 龍華電影,https://wabc.ml/hlk.php?id=132
+##
 
 ##🇭🇰｜影剧##
 八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
@@ -258,6 +264,7 @@ ELTA影劇,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e4169431
 龙华日韩,https://wabc.ml/hlk.php?id=116
 龙华偶像,https://wabc.ml/hlk.php?id=122
 龙华经典,https://wabc.ml/hlk.php?id=234
+##
 
 ##🇭🇰｜综艺##
 民视综艺,https://wabc.ml/hlk.php?id=92
@@ -276,6 +283,7 @@ ELTA影劇,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e4169431
 民视综艺,http://seb.sason.top/ptv/ftv.php?id=zy
 中天娱乐,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 中天娱乐,http://60.251.59.180:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+##
 
 ##🇭🇰｜生活##
 MOMO亲子,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
@@ -291,6 +299,7 @@ EYETV旅游,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c9
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 慈光慧雨,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
+##
 
 ##🇭🇰｜体育##
 足球,http://txtest-xp2p.p2p.huya.com/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.xs
@@ -320,6 +329,7 @@ ELTA體育1,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401
 博斯高球II,https://wabc.ml/hlk.php?id=125
 博斯運動I,https://wabc.ml/hlk.php?id=102
 博斯運動II,https://wabc.ml/hlk.php?id=124
+##
 
 ##🇭🇰｜探索##
 BBC earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
@@ -342,9 +352,10 @@ Discovery科学,http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599
 探索科學,http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 探索頻道,http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
 罪案偵輯,http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
+##
 
 ##🇭🇰｜World##
 ABC,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcnewsus.m3u8
 NBC,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/nbc2.m3u8
 FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-
+##
