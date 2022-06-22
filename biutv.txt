@@ -156,7 +156,7 @@ CCTV-15,http://39.135.6.51:6610/000000001001/1000000002000008163/1.m3u8?Contenti
 湖南卫视,http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8
 ##
 
-##🇭🇰｜四川##
+##🇨🇳｜四川##
 四川新闻,http://182.151.211.171:808/hls/52/index.m3u8
 四川经济,http://182.151.211.171:808/hls/50/index.m3u8
 四川影视,http://182.151.211.171:808/hls/53/index.m3u8
@@ -166,14 +166,14 @@ CCTV-15,http://39.135.6.51:6610/000000001001/1000000002000008163/1.m3u8?Contenti
 四川乡村,http://182.151.211.171:808/hls/57/index.m3u8
 ##
 
-##🇭🇰｜音乐##
+##💘｜音乐##
 大立音乐,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 音乐石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
 7S Music,http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 ##
 
-##🇭🇰｜新闻##
+##🐠｜新闻##
 凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8
@@ -225,7 +225,7 @@ Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/in
 民视,https://wabc.ml/hlk.php?id=96
 ##
 
-##🇹🇼｜电影##
+##💘｜电影##
 HBO,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 緯來電影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
@@ -234,7 +234,7 @@ HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&
 龍華電影,https://wabc.ml/hlk.php?id=132
 ##
 
-##🇹🇼｜影剧##
+##🔃｜影剧##
 八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
 华语戏剧,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
 龙华偶像,http://59.125.101.187:10762/http/192.168.77.24:8066/hls/210/10012/cstv12.m3u8
@@ -285,7 +285,7 @@ ELTA影劇,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e4169431
 中天娱乐,http://60.251.59.180:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 ##
 
-##🇹🇼｜生活##
+##🎏｜生活##
 MOMO亲子,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 東森幼幼,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
 龍華卡通,https://wabc.ml/hlk.php?id=89
