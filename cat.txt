@@ -1532,5 +1532,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-    "spider": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/mao1_spider.jar"
+    "spider": "https://818618.xyz/cat.jar"
 }
