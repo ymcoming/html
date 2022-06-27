@@ -103,7 +103,6 @@ CCTV-14,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
 CCTV-14,http://39.135.32.24:6610/000000001000/1000000001000008170/1.m3u8?i?zzhongd
 CCTV-14,http://39.135.32.7:6610/000000001000/cctv-14/1.m3u8?IASHttpSessionId=OTT?zzhongd
 CCTV-14,http://migu.jilu8.cn/3221231648/index.m3u8
-CCTV-15,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=1000000002000008163&livemode=1&stbId=2&channel-id=ystenlive
 CCTV-15,http://111.40.196.31/PLTV/88888888/224/3221225500/index.m3u8?zyangd
 CCTV-15,http://111.63.117.13:6060/030000001000/G_CCTV-15/G_CCTV-15.m3u8?zyangd
 CCTV-15,http://39.135.32.24:6610/000000001000/1000000002000008163/1.m3u8?i?zzhongd
@@ -170,7 +169,6 @@ CCTV-15,http://39.135.6.51:6610/000000001001/1000000002000008163/1.m3u8?Contenti
 Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 
 港台资讯,#genre#
-凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
