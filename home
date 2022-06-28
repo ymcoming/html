@@ -229,8 +229,14 @@ ELEVEN1,rtmp://59.124.75.150/sat/tv731
 ELEVEN1,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
 ELEVEN2,rtmp://59.124.75.138/sat/tv741
 ELEVEN2,rtmp://59.124.75.150/sat/tv741
-ELTA體育,rtmp://59.124.75.150/sat/md011
+ELTA體育1,rtmp://59.124.75.138/sat/md011
+ELTA體育2,rtmp://59.124.75.138/sat/md021
+ELTA體育3,rtmp://59.124.75.138/sat/md041
+ELTA體育1,rtmp://59.124.75.150/sat/md011
+ELTA體育2,rtmp://59.124.75.150/sat/md021
+ELTA體育3,rtmp://59.124.75.150/sat/md041
 智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+智林體育,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
 博斯运动2,rtmp://59.124.75.138/sat/md041
 博斯运动2,rtmp://59.124.75.150/sat/md041
 纬来体育,rtmp://59.124.75.138/sat/tv721
