@@ -1,4 +1,4 @@
-{
+﻿{
     "spider": "https://818618.xyz/tv.jar",
     "lives": [
         {
@@ -30,6 +30,15 @@
             "api": "csp_BBB",
             "searchable": 0,
             "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "spider_Bttoo",
+            "name": "📚2BT(SP)",
+            "type": 3,
+            "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1
         },
         {
@@ -86,6 +95,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_appys_美剧虫",
+            "name": "美剧虫(V1)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://meijuchong.com/api.php/v1.vod"
         },
         {
             "key": "csp_Nbys",
