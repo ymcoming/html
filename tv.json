@@ -3735,9 +3735,25 @@
             "url": "Sequence"
         },
         {
+            "name": "leduo",
+            "type": 1,
+            "url": "https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=",
+            "ext": {
+                "flag": [
+                    "leduo"
+                ]
+            }
+        },   
+        {
             "name": "左岸",
             "type": 1,
-            "url": "https://good-vip.mmiyue.com/zhenbuka2/api/svip/HaShrcJUHwtH7TDdgUzHaWvJ1lWUZWiK.php?url="
+            "url": "https://good-vip.mmiyue.com/zhenbuka2/api/svip/HaShrcJUHwtH7TDdgUzHaWvJ1lWUZWiK.php?url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "优酷"
+                ]
+             }
         },
         {
             "name": "Pro",
@@ -3829,16 +3845,6 @@
             "name": "剧好看",
             "type": 1,
             "url": "https://www.mtosz.com/m3u8.php?url="
-        },
-        {
-            "name": "leduo",
-            "type": 1,
-            "url": "https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=",
-            "ext": {
-                "flag": [
-                    "leduo"
-                ]
-            }
         },
         {
             "name": "renrenmi2",
