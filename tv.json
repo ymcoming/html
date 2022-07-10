@@ -1,4 +1,4 @@
-﻿{
+{
     "spider": "https://818618.xyz/tv.jar",
     "lives": [
         {
@@ -3743,7 +3743,7 @@
                     "leduo"
                 ]
             }
-        },   
+        },
         {
             "name": "左岸",
             "type": 1,
@@ -3753,7 +3753,111 @@
                     "youku",
                     "优酷"
                 ]
-             }
+            }
+        },
+        {
+            "name": "①展宁",
+            "type": 1,
+            "url": "https://jx.hfyrw.com/mao.go?url="
+        },
+        {
+            "name": "②展宁",
+            "type": 1,
+            "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "qq",
+                    "letv",
+                    "sohu",
+                    "youku",
+                    "mgtv",
+                    "bilibili",
+                    "wasu",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "name": "③展宁",
+            "type": 1,
+            "url": "http://81.71.48.249:4456/jsonc/293shipin.php?url=",
+            "i": "77",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果"
+                ]
+            }
+        },
+        {
+            "name": "④展宁",
+            "type": 1,
+            "url": "http://106.55.234.91:4433/?url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "qq",
+                    "letv",
+                    "sohu",
+                    "youku",
+                    "mgtv",
+                    "bilibili",
+                    "wasu",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "name": "⑤展宁",
+            "type": 1,
+            "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "mgtv",
+                    "youku",
+                    "letv",
+                    "sohu",
+                    "xigua",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "Dart/2.14 (dart:io)"
+                }
+            }
+        },
+        {
+            "name": "⑥展宁",
+            "type": 1,
+            "url": "http://jiexi.mmhkj.xyz/home/api?type=ys&uid=4187535&key=enpstuBEJKLNPUXZ19&url="
+        },
+        {
+            "name": "⑦展宁",
+            "type": 1,
+            "url": "https://app.okmedcos.com/4k/?url="
+        },
+        {
+            "name": "⑧展宁",
+            "type": 1,
+            "url": "https://jie.1z1.cc/api/?key=HdMmTMfyf1uTOQUL0b&url="
         },
         {
             "name": "Pro",
@@ -3805,7 +3909,6 @@
                 ]
             }
         },
-
         {
             "name": "综合线路解析",
             "type": 1,
