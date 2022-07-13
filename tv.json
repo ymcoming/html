@@ -3773,6 +3773,70 @@
             }
         },
         {
+            "name": "秒解",
+            "type": 1,
+            "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="
+        },
+        {
+            "name": "LTRX",
+            "type": 1,
+            "url": "https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=",
+            "ext": {
+                "flag": [
+                    "rx"
+                ]
+            }
+        },
+        {
+            "name": "①秒播",
+            "type": 1,
+            "url": "https://jx.hfyrw.com/mao.go?url="
+        },
+        {
+            "name": "②秒播",
+            "type": 1,
+            "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "qq",
+                    "letv",
+                    "sohu",
+                    "youku",
+                    "mgtv",
+                    "bilibili",
+                    "wasu",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "name": "云you解析",
+            "type": 1,
+            "url": "https://ax.jx.cn/api.php?url="
+        },
+        {
+            "name": "云you解析2",
+            "type": 1,
+            "url": "https://maoyingshi.cc/api.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "mgtv",
+                    "youku",
+                    "letv",
+                    "sohu",
+                    "xigua",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "Dart/2.14 (dart:io)"
+                }
+            }
+        },
+        {
             "name": "①展宁",
             "type": 1,
             "url": "https://jx.hfyrw.com/mao.go?url="
