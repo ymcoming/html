@@ -3762,6 +3762,17 @@
             }
         },
         {
+            "name": "Parwix",
+            "type": 1,
+            "url": "https://jx.bozrc.com:4433/player/?url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "youku"
+                ]
+            }
+        },
+        {
             "name": "左岸",
             "type": 1,
             "url": "https://good-vip.mmiyue.com/zhenbuka2/api/svip/HaShrcJUHwtH7TDdgUzHaWvJ1lWUZWiK.php?url=",
