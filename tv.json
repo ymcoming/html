@@ -1,6 +1,5 @@
 {
-"spider":"./jar/xo.jar;md5;50041e58be27b2d9e9f67780b22f1773",
-##"spider": "https://818618.xyz/tv.jar",
+"spider": "https://818618.xyz/tv.jar",
 "lives": [        {            "group": "redirect",            "channels": [                {                    "name": "redirect",                    "urls": [                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly84MTg2MTgueHl6L2hvbWU="                    ]                }            ]        }    ],
 
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=suiji",
