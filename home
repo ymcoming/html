@@ -1,4 +1,22 @@
 央视,#genre#
+CCTV-1,http://hls.yun.gehua.net.cn:8088/live/CCTV-1HD_6000.m3u8
+CCTV-2,http://hls.yun.gehua.net.cn:8088/live/CCTV-2HD_6000.m3u8
+CCTV-3,http://hls.yun.gehua.net.cn:8088/live/CCTV-3HD_6000.m3u8
+CCTV-4,http://hls.yun.gehua.net.cn:8088/live/CCTV-4HD_6000.m3u8
+CCTV-5,http://hls.yun.gehua.net.cn:8088/live/CCTV-5HD_6000.m3u8
+CCTV-5+,http://hls.yun.gehua.net.cn:8088/live/CCTV-5plusHD_6000.m3u8
+CCTV-6,http://hls.yun.gehua.net.cn:8088/live/CCTV-6HD_6000.m3u8
+CCTV-7,http://hls.yun.gehua.net.cn:8088/live/CCTV-7HD_6000.m3u8
+CCTV-8,http://hls.yun.gehua.net.cn:8088/live/CCTV-8HD_6000.m3u8
+CCTV-9,http://hls.yun.gehua.net.cn:8088/live/CCTV-9HD_6000.m3u8
+CCTV-10,http://hls.yun.gehua.net.cn:8088/live/CCTV-10HD_6000.m3u8
+CCTV-11,http://39.135.6.132:6610/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=3
+CCTV-11,http://hls.yun.gehua.net.cn:8088/live/CCTV-11HD_2000.m3u8
+CCTV-12,http://hls.yun.gehua.net.cn:8088/live/CCTV-12HD_6000.m3u8
+CCTV-13,https://live-play.CCTV-news.CCTV-.com/CCTV-/merge_CCTV-13.m3u8
+CCTV-13,http://hls.yun.gehua.net.cn:8088/live/CCTV-13HD_2000.m3u8
+CCTV-14,http://hls.yun.gehua.net.cn:8088/live/CCTV-14HD_6000.m3u8
+CCTV-15,http://hls.yun.gehua.net.cn:8088/live/CCTV-15HD_6000.m3u8
 CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 CCTV-3,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 CCTV-4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
@@ -137,6 +155,17 @@ EiveABC互动英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gt
 
 
 体育,#genre#
+CCTV-16(4K),http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT451920221120173908002837&channel-id=bestzb&Contentid=5000000008000023254
+CCTV-16(4K),http://live.cooltv.top/tv/aishang.php?id=CCTV-164k
+咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+咪咕体育,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
+咪咕体育,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
+五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 足球,http://txtest-xp2p.p2p.huya.com/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.xs
 ELEVEN1,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
 智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
