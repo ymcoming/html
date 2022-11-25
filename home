@@ -56,6 +56,10 @@ CCTV10[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225636/index.
 CCTV11[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
 CCTV12[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
 CCTV12[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225637/index.m3u8
+CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5-高清,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+CCTV5-高清,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 
 省卫视,#genre#
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
@@ -155,6 +159,9 @@ EiveABC互动英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gt
 
 
 体育,#genre#
+咪咕体育,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 CCTV-16(4K),http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT451920221120173908002837&channel-id=bestzb&Contentid=5000000008000023254
 CCTV-16(4K),http://live.cooltv.top/tv/aishang.php?id=CCTV-164k
 咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
