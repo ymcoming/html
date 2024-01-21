@@ -3,8 +3,6 @@
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1,CCTV3
 https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
-#EXTINF:-1,CCTV4
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 #EXTINF:-1,CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1,CCTV5+
@@ -19,7 +17,3 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 #EXTINF:-1,咪咕体育
 https://node1.olelive.com:6443/sport/18323a035e183428c7a578a37ebe8873/hls.m3u8
-#EXTINF:-1,四川卫视
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
-#EXTINF:-1,江苏卫视
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
